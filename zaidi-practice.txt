@@ -1,0 +1,11 @@
+My name is Zaidi.
+
+I am learning Git and GitHub.
+
+This is my first practical exercise.
+
+Topics:
+1. Git Status
+2. Git Add
+3. Git Commit
+4. Git Push
